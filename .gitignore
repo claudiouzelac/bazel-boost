@@ -1,0 +1,8 @@
+# Test files
+
+*.json
+*.csv
+
+# Bazel files
+
+bazel-*
